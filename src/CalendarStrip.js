@@ -6,7 +6,7 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { View, Animated, PixelRatio } from "react-native";
 
-import moment from "moment";
+import moment from "moment-modification-rn";
 
 import CalendarHeader from "./CalendarHeader";
 import CalendarDay from "./CalendarDay";

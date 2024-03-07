@@ -4,7 +4,7 @@
 
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import moment from "moment";
+import moment from "moment-modification-rn";
 
 import { Text, View, Animated, Easing, LayoutAnimation, TouchableOpacity } from "react-native";
 import styles from "./Calendar.style.js";

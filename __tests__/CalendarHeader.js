@@ -1,7 +1,7 @@
 import React from "react";
 import { configure, shallow } from "enzyme";
 import Adapter from "enzyme-adapter-react-16";
-import moment from "moment";
+import moment from "moment-modification-rn";
 
 import CalendarHeader from "../src/CalendarHeader";
 

@@ -9,7 +9,7 @@ import React, { Component } from "react";
 import { View } from "react-native";
 import PropTypes from "prop-types";
 import { RecyclerListView, DataProvider, LayoutProvider } from "recyclerlistview";
-import moment from "moment";
+import moment from "moment-modification-rn";
 
 export default class CalendarScroller extends Component {
   static propTypes = {

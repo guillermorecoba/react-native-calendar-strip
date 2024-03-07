@@ -1,5 +1,5 @@
 import { Component, ReactNode, ComponentProps, RefObject } from "react";
-import { Duration, Moment } from "moment";
+import { Duration, Moment } from "moment-modification-rn";
 import {
   StyleProp,
   ViewStyle,
