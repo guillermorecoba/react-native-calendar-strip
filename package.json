@@ -32,7 +32,7 @@
     "postinstall": "node-git-hooks"
   },
   "dependencies": {
-    "moment-modification-rn": "1.0.1",
+    "moment-modification-rn": "1.0.2",
     "node-git-hooks": "^1.0.1",
     "prop-types": "^15.6.0",
     "recyclerlistview": "^3.0.0"
